@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13143" started-at="2018-07-31T10:58:20Z" finished-at="2018-07-31T10:58:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13143" started-at="2018-07-31T10:58:20Z" finished-at="2018-07-31T10:58:33Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@271053e1]" name="setup" is-config="true" duration-ms="208" started-at="2018-07-31T16:28:20Z" finished-at="2018-07-31T16:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMethodNameInReport(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@271053e1]" name="getMethodNameInReport" is-config="true" duration-ms="9" started-at="2018-07-31T16:28:20Z" finished-at="2018-07-31T16:28:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.LoginPageTest.loginPageTitleTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodNameInReport -->
+        <test-method status="PASS" signature="beforeTestTasks()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@271053e1]" name="beforeTestTasks" is-config="true" duration-ms="11951" started-at="2018-07-31T16:28:20Z" finished-at="2018-07-31T16:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestTasks -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@271053e1]" name="loginPageTitleTest" duration-ms="31" started-at="2018-07-31T16:28:32Z" finished-at="2018-07-31T16:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@271053e1]" name="tearDown" is-config="true" duration-ms="1135" started-at="2018-07-31T16:28:32Z" finished-at="2018-07-31T16:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
